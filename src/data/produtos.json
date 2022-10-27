@@ -1,0 +1,42 @@
+{"dados": [
+	{
+		"preco": 9.9,
+		"imagemCafe": "expresso-tradicional",
+		"tags": ["TRADICIONAL"],
+		"nome": "Expresso Tradicional",
+		"descricao": "O tradicional café feito com água quente e grãos moídos",
+		"quantidade": 0
+	},
+	{
+		"preco": 9.9,
+		"imagemCafe": "expresso-americano",
+		"tags": ["TRADICIONAL"],
+		"nome": "Expresso Americano",
+		"descricao": "Expresso diluido, menos intenso que o tradicional",
+		"quantidade": 0
+	},
+	{
+		"preco": 9.9,
+		"imagemCafe": "expresso-cremoso",
+		"tags": ["TRADICIONAL"],
+		"nome": "Expresso Cremoso",
+		"descricao": "Café com expresso tradicional com espuma cremosa",
+		"quantidade": 0
+	},
+	{
+		"preco": 9.9,
+		"imagemCafe": "expresso-gelado",
+		"tags": ["TRADICIONAL"],
+		"nome": "Expresso Gelado",
+		"descricao": "Bebida preparada com café expresso e cubos de gelo",
+		"quantidade": 0
+	},
+	{
+		"preco": 9.9,
+		"imagemCafe": "cafe-com-leite",
+		"tags": ["TRADICIONAL","COM LEITE"],
+		"nome": "Café com Leite",
+		"descricao": "Meio a meio de expresso tradicional com leite vaporizado",
+		"quantidade": 0
+	}
+]}
